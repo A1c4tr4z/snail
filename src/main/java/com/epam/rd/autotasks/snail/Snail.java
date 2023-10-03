@@ -30,7 +30,7 @@ public class Snail
                 }
                 hi=hi+bi;
             }
-            System.out.println(""+step);
+            System.out.println(step);
         }
     }
 }
